@@ -1,48 +1,87 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=코드스테이츠%20경상남도%20ABC-Lab%20웹%20프론트엔드%20개발자%20부트캠프%20과정%202023.10.10%20~2024.02.06%20Final%20project)
+
+코드스테이츠 경상남도 ABC-Lab 웹 프론트엔드 개발자 부트캠프 과정
+2023.10.10 ~ 2024.02.06
+
+Final project
+
 <p align="center">
   <img src="https://ifh.cc/g/foMwhL.jpg">
 </p>
-<h3 align='center'> 쓰담(SSUDAM)은 쓰레기 담기의 줄인말로 
-<br>
-  지역 생태계 보호와 걷기를 통한 주민들의 건강 증진을 돕는 커뮤니티 사이트입니다. </h3>
-  
+<h3 align='center'> 
+<p>Let’s all flog together!</p> 🏃🏻쓰담 (SSEUDAM)쓰레기 담기의 줄인말로
+
+지역 생태계 보호와 걷기를 통한 주민들의 건강 증진을 돕는 커뮤니티 사이트 </h3>
+
 <br>
 
-## 🚩 개요
-- 프로젝트 이름 : 쓰담 (SSUDAM)
-- 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
+## 🚩 프로젝트 개요
+
+#### 코드스테이츠
+
+- 팀 프로젝트 이름 : 쓰담 (SSEUDAM)
+- 팀 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
+- 개발 인원 : 프론트엔드 4명, 백엔드 4명
 - 배포주소 : [쓰담✨](http://ssdam.s3-website.ap-northeast-2.amazonaws.com/)
+  <br>
+  <br>
+
+## 🤔 프로젝트 기획배경 / 목표
+
+### 프로젝트 추진 계획 및 근거 / 프로젝트 기획 목표
+
+<details>
+<summary>
+🤔 기획 배경
+</summary>
+
+1. 운동은 하고싶은데 동기가 부족하거나, 작게나마 뿌듯함을 느끼고 싶은 분들, 지역 주민들과 함께 참여하고 건강 증진을 위한 운동 기회를 제공하기 위함
+2. 수업시간에 배운 기술들을 종합적으로 활용할 수 있다.
+</details>
+
+<details>
+<summary>
+🧗 목표 및 기대 효과
+</summary>
+
+1. 수업시간에 배운 내용을 바탕으로 커뮤니티 사이트 개발에 필요한 전반적인 기술 습득
+2. 프로젝트 수행 과정에서 협업 능력과 문제 해결 능력 향상
+3. 플로깅을 통해 사회적으로 소통하며 활동량을 높인다.
+4. 환경보호와 건강을 동시에 고려하는 활동으로 사용자들에게 지속가능한 라이프 스타일의 중요성을 일깨운다.
+5. 사용자들은 쓰레기 수거와 운동의 조합으로 건강한 라이프스타일을 즐기며 만족감을 느낄 수 있다.
+</details>
+
+## 👩‍💻👨‍💻 Team list
+
+|                                                                 **강혜주**                                                                 |                                                                 **김수안**                                                                 |                                                                 **최준하**                                                                 |                                                                 **조은희**                                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/f316cf92-de9c-472b-80b3-8e98eae90e93" width="150px" height="150px"> | <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/ae043c41-5b33-4a5c-a7ab-0af2ca31cd06" width="150px" height="150px"> | <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/6c1cc0e2-8455-4044-a71b-4fab234faa9f" width="150px" height="150px"> | <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/e118b13e-d2e7-4e52-81ef-c35bed264eb6" width="150px" height="150px"> |
+|                                                                  BE(팀장)                                                                  |                                                                     BE                                                                     |                                                                     BE                                                                     |                                                                     BE                                                                     |
+|                                                    [hyezuu](https://github.com/hyezuu)                                                     |                                                    [sooani](https://github.com/sooani)                                                     |                                                [choijh0309](https://github.com/choijh0309)                                                 |                                                  [eunhee78](https://github.com/eunhee78)                                                   |
 
 <br><br>
 
-## 👀 Team list
-
-|**강혜주**|**김수안**|**최준하**|**조은희**|
-|:--:|:--:|:--:|:--:|
-|<img src="https://github.com/codestates-seb/abc02_002/assets/118452650/f316cf92-de9c-472b-80b3-8e98eae90e93" width="150px" height="150px">|<img src="https://github.com/codestates-seb/abc02_002/assets/118452650/ae043c41-5b33-4a5c-a7ab-0af2ca31cd06" width="150px" height="150px"> | <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/6c1cc0e2-8455-4044-a71b-4fab234faa9f" width="150px" height="150px"> | <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/e118b13e-d2e7-4e52-81ef-c35bed264eb6" width="150px" height="150px">|
-|BE(팀장)|BE|BE|BE|
-|[hyezuu](https://github.com/hyezuu)|[sooani](https://github.com/sooani)|[choijh0309](https://github.com/choijh0309)|[eunhee78](https://github.com/eunhee78)|
-
-<br><br>
-
-|**배정현**|**이혜원**|**안민주**|**김윤한**|
-|:--:|:--:|:--:|:--:|
-|<img src="https://i.namu.wiki/i/dCfctGiBtIhlNvrYVKHez9BMIyUZAwd5-N35oTRXxuZs_KRkDOK9laZuXxcf2IJmlA6kVInSeQ7h5XjGS3MUuc_eAanFwTPQ1OkuuS80kwp8gYrbYIguJMvLqlxYntSMRY2UFlZLuSk8erpT40dfNw.webp" width="150px" height="150px">|<img src="https://i.namu.wiki/i/srbCqpZfNdcLJfOm91Z9BAncS862x9vsQPx0U5l62Y7yBz23iexnelKuZ8916D2NkEtQv5emlPMUGZczv6gZTelexPgnJSSdXbntOUtMUaxQrkpNUnCWv2GwM-FGQm4h76CWIy8i2RJX39Y-cA3qOg.webp" width="150px" height="150px"> |<img src="https://static.wikia.nocookie.net/catchteeniepin/images/5/58/Sandping_render_1.png/revision/latest?cb=20231104013915" width="140px" height="140px"> |<img src="https://postfiles.pstatic.net/MjAyMjA2MjBfMjgy/MDAxNjU1NzEyNTM3OTc4.I4oQofjsZsjhPim9lSrhhlQn6yz91Rr9p1cICafjPt4g.sjqLPeofHTzVZeOfYtxrz0gw2SHRqqCIsTR1dcBhBfAg.PNG.0104849/2022-06-20_17;08;23.PNG?type=w773" width="150px" height="150px">|
-|FE(팀장)|FE|FE|FE|
-|[bjh0524](https://github.com/bjh0524)|[hyehye225](https://github.com/hyehye225)|[anminjoo](https://github.com/anminjoo)|[YunHanKIM](https://github.com/YunHanKIM)|
-
+|                                                                                                         **배정현**                                                                                                         |                                                                                                         **이혜원**                                                                                                         |                                                                          **안민주**                                                                           |                                                                                                                      **김윤한**                                                                                                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://i.namu.wiki/i/dCfctGiBtIhlNvrYVKHez9BMIyUZAwd5-N35oTRXxuZs_KRkDOK9laZuXxcf2IJmlA6kVInSeQ7h5XjGS3MUuc_eAanFwTPQ1OkuuS80kwp8gYrbYIguJMvLqlxYntSMRY2UFlZLuSk8erpT40dfNw.webp" width="150px" height="150px"> | <img src="https://i.namu.wiki/i/srbCqpZfNdcLJfOm91Z9BAncS862x9vsQPx0U5l62Y7yBz23iexnelKuZ8916D2NkEtQv5emlPMUGZczv6gZTelexPgnJSSdXbntOUtMUaxQrkpNUnCWv2GwM-FGQm4h76CWIy8i2RJX39Y-cA3qOg.webp" width="150px" height="150px"> | <img src="https://static.wikia.nocookie.net/catchteeniepin/images/5/58/Sandping_render_1.png/revision/latest?cb=20231104013915" width="140px" height="140px"> | <img src="https://postfiles.pstatic.net/MjAyMjA2MjBfMjgy/MDAxNjU1NzEyNTM3OTc4.I4oQofjsZsjhPim9lSrhhlQn6yz91Rr9p1cICafjPt4g.sjqLPeofHTzVZeOfYtxrz0gw2SHRqqCIsTR1dcBhBfAg.PNG.0104849/2022-06-20_17;08;23.PNG?type=w773" width="150px" height="150px"> |
+|                                                                                                          FE(팀장)                                                                                                          |                                                                                                             FE                                                                                                             |                                                                              FE                                                                               |                                                                                                                          FE                                                                                                                          |
+|                                                                                           [bjh0524](https://github.com/bjh0524)                                                                                            |                                                                                         [hyehye225](https://github.com/hyehye225)                                                                                          |                                                            [anminjoo](https://github.com/anminjoo)                                                            |                                                                                                      [YunHanKIM](https://github.com/YunHanKIM)                                                                                                       |
 
 <br><br>
 
 ## 🛠 기술 스택
+
 ![image](https://github.com/codestates-seb/abc02_002/assets/118452650/60fc2529-6f19-4a69-932a-75c0549433e3)
 
 ### 공통
+
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 <br>
-    
+
 ### 백엔드
+
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
@@ -59,12 +98,14 @@
 <br>
 
 ### 프론트엔드
+
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=Axios&logoColor=white"><img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 
 <br>
 
 ## 🧰 백엔드 아키텍처
+
 <img width="575" alt="Untitled" src="https://github.com/codestates-seb/abc02_002/assets/118452650/9f3d09b9-a135-456f-b237-08e392fc254c">
 
 <br>
@@ -74,38 +115,38 @@
 <br>
 
 ## 📋 백엔드 서비스 메뉴얼
+
 [SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
 
 <br><br>
 
----------
+---
 
 ### **✔ branch 규칙**
 
-- `main` : 메인 브랜치  
-- `dev` : 개발 병합 브랜치  
-- `be` : 백엔드 브랜치  
-- `be+xx` : 백엔드 개인 브랜치  
+- `main` : 메인 브랜치
+- `dev` : 개발 병합 브랜치
+- `be` : 백엔드 브랜치
+- `be+xx` : 백엔드 개인 브랜치
 - `fe` : 프론트 브랜치
-- `fe+xx` : 프론트엔드 개인 브랜치  
+- `fe+xx` : 프론트엔드 개인 브랜치
 
 <br>
 
 ### 🌟 커밋 컨벤션
-|이름|내용|
-|:--:|:--:|
-|✨ feat| 새로운 기능 추가|
-|🐛 fix| 버그 수정|
-|📝 docs| 문서 수정|
-|💡 comment| 필요한 주석 추가 및 변경|
-|🎨 style| 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우|
-|♻️ refactor| 코드 리팩토링|
-|🔧 update| 코드 업데이트 및 수정|
-|✅ test| 테스트 코드|
-|📦 chore| 빌드 업무 수정, 패키지 매니저 수정|
-|🔥 remove| 파일을 삭제하는 작업만 수행|
-|🚚 rename| 파일 혹은 폴더명을 수정하거나 옮김|
-|🚑 !HOTFIX| 급하게 치명적인 버그 고침|
-|💥 !BREAKING CHANGE| 커다란 API 변경|  
 
-
+|        이름         |                       내용                        |
+| :-----------------: | :-----------------------------------------------: |
+|       ✨ feat       |                 새로운 기능 추가                  |
+|       🐛 fix        |                     버그 수정                     |
+|       📝 docs       |                     문서 수정                     |
+|     💡 comment      |             필요한 주석 추가 및 변경              |
+|      🎨 style       | 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우 |
+|     ♻️ refactor     |                   코드 리팩토링                   |
+|      🔧 update      |               코드 업데이트 및 수정               |
+|       ✅ test       |                    테스트 코드                    |
+|      📦 chore       |        빌드 업무 수정, 패키지 매니저 수정         |
+|      🔥 remove      |            파일을 삭제하는 작업만 수행            |
+|      🚚 rename      |        파일 혹은 폴더명을 수정하거나 옮김         |
+|     🚑 !HOTFIX      |             급하게 치명적인 버그 고침             |
+| 💥 !BREAKING CHANGE |                  커다란 API 변경                  |
