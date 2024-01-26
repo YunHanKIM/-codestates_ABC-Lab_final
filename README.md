@@ -1,9 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=코드스테이츠%20경상남도%20ABC-Lab%20웹%20프론트엔드%20개발자%20부트캠프%20과정%202023.10.10%20~2024.02.06%20Final%20project)
+<h3>
+코드스테이츠 경상남도 ABC-Lab
 
-코드스테이츠 경상남도 ABC-Lab 웹 프론트엔드 개발자 부트캠프 과정
-2023.10.10 ~ 2024.02.06
+웹 프론트엔드 개발자 부트캠프 과정
 
-Final project
+부트캠프 기간: 2023.10.10 ~ 2024.02.06
+
+Final Team Project
+
+</h3>
 
 <p align="center">
   <img src="https://ifh.cc/g/foMwhL.jpg">
@@ -16,8 +20,6 @@ Final project
 <br>
 
 ## 🚩 프로젝트 개요
-
-#### 코드스테이츠
 
 - 팀 프로젝트 이름 : 쓰담 (SSEUDAM)
 - 팀 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
@@ -51,6 +53,27 @@ Final project
 5. 사용자들은 쓰레기 수거와 운동의 조합으로 건강한 라이프스타일을 즐기며 만족감을 느낄 수 있다.
 </details>
 
+## 👣 나의 역할
+
+메인 페이지 담당
+
+<details>
+<summary>
+주요기능
+</summary>
+
+1. 전체, 모집중 게시글 조회
+   1. 게시글 생성시 최근 게시글, 마감일 표시
+2. 새로운 모임 게시글 조회
+   1. 게시글 생성시 new, 마감일 표시
+3. todoList 조회
+4. 관리자, 새 글쓰기, 로그인, 회원가입 페이지
+   이동
+5. 스크롤위치 표시, 스크롤 위치 입력 후 이동,
+   페이지 최 상단 이동
+6. 부트스트랩 반응형 레이아웃 기준 디자인 적용
+</details>
+
 ## 👩‍💻👨‍💻 Team list
 
 |                                                                 **강혜주**                                                                 |                                                                 **김수안**                                                                 |                                                                 **최준하**                                                                 |                                                                 **조은희**                                                                 |
@@ -77,8 +100,16 @@ Final project
 
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Windows](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 <br>
+
+### 프론트엔드
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 
 ### 백엔드
 
@@ -91,34 +122,28 @@ Final project
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<br>
 
-### 프론트엔드
+## ⏸ 프로젝트 진행과정
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=Axios&logoColor=white"><img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+#### 공통 과정
 
-<br>
+1. 사용자 요구사항 정의서, 화면 정의서 작성
+2. 파트 분배
+3. 폴더 구조 잡기
+4. 깃 칸반 이슈 등록
+5. 매일 1시에 디스코드에서 진행상황 공유하며 서로 피드백
 
-## 🧰 백엔드 아키텍처
+#### 나의 과정
 
-<img width="575" alt="Untitled" src="https://github.com/codestates-seb/abc02_002/assets/118452650/9f3d09b9-a135-456f-b237-08e392fc254c">
+1. 메인페이지 헤더, 배너, 메인구역, 푸터 하드코딩을 통해 영역 설정
+2. 더미데이터 및 포스트맨 활용 필요 데이터 GET, POST 확인 인텔리제이로 로컬 서버 돌리며 작업
+3. 새로운 모임 구역 슬라이드 기능 구현
+4. 전체 / 모집중 카테고리 별 게시글 구현
+5. 전체 css 작업
+6. 피드백 받은 내용 수정
 
-<br>
-
-## 🧰 프론트 아키텍처
-
-<br>
-
-## 📋 백엔드 서비스 메뉴얼
-
-[SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
-
-<br><br>
+### 시연 동영상
 
 ---
 
