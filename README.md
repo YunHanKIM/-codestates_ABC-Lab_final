@@ -138,9 +138,9 @@ Final Team Project
 
 1. 메인페이지 헤더, 배너, 메인구역, 푸터 하드코딩을 통해 영역 설정
 2. 더미데이터 및 포스트맨 활용 필요 데이터 GET, POST 확인 인텔리제이로 로컬 서버 돌리며 작업
-![서버이미지]<img src="./img/server.png" width="150px" height="150px">
-![포스트]<img src="./img/post.png" width="150px" height="150px">
-![get]<img src="./img/get.png" width="150px" height="150px">
+<img src="./img/server.png" width="150px" height="150px">
+<img src="./img/post.png" width="150px" height="150px">
+<img src="./img/get.png" width="150px" height="150px">
 
 4. 새로운 모임 구역 슬라이드 기능 구현
 5. 전체 / 모집중 카테고리 별 게시글 구현
