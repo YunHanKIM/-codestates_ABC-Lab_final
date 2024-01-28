@@ -69,13 +69,13 @@ Final Team Project
 3. todoList 조회
 4. 관리자, 새 글쓰기, 로그인, 회원가입 페이지
    이동
-  1. 로그인 했을 경우 게시글 상세조회, 새 글쓰기 가능, 비로그인시 회원가입 페이지 모달로 표시
+   1. 로그인 했을 경우 게시글 상세조회, 새 글쓰기 가능, 비로그인시 회원가입 페이지 모달로 표시
 6. 스크롤위치 표시, 스크롤 위치 입력 후 이동,
    페이지 최 상단 이동
 7. 부트스트랩 반응형 레이아웃 기준 디자인 적용
-  1. 스마트폰 : max-witdh 575.98px
-  2. 태블릿 : max-width: 991.98px
-  3. 데스크탑 : max-width: 1199.98px
+   1. 스마트폰 : max-witdh 575.98px
+   2. 태블릿 : max-width: 991.98px
+   3. 데스크탑 : max-width: 1199.98px
 </details>
 
 ## 👩‍💻👨‍💻 Team list
@@ -146,9 +146,17 @@ Final Team Project
 <img src="./img/server.png" width="150px" height="150px"><img src="./img/post.png" width="150px" height="150px"><img src="./img/get.png" width="150px" height="150px">
 
 3. 새로운 모임 구역 슬라이드 기능 구현
-4. 전체 / 모집중 카테고리 별 게시글 구현
-5. 전체 css 작업
-6. 피드백 받은 내용 수정
+
+![newPost](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/a866d968-4495-423e-a0c7-c2283f1d4a8e)
+
+
+5. 전체 / 모집중 카테고리 별 게시글 구현
+
+![category](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/14cef553-4f44-4916-a396-13d070111ce0)
+
+
+6. 전체 css 작업
+7. 피드백 받은 내용 수정
 
 ### 시연 동영상
 
