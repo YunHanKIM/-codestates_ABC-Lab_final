@@ -141,10 +141,10 @@ Final Team Project
    
 <img src="./img/server.png" width="150px" height="150px"><img src="./img/post.png" width="150px" height="150px"><img src="./img/get.png" width="150px" height="150px">
 
-4. 새로운 모임 구역 슬라이드 기능 구현
-5. 전체 / 모집중 카테고리 별 게시글 구현
-6. 전체 css 작업
-7. 피드백 받은 내용 수정
+3. 새로운 모임 구역 슬라이드 기능 구현
+4. 전체 / 모집중 카테고리 별 게시글 구현
+5. 전체 css 작업
+6. 피드백 받은 내용 수정
 
 ### 시연 동영상
 
