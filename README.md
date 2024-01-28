@@ -152,8 +152,7 @@ Final Team Project
 
 5. 전체 / 모집중 카테고리 별 게시글 구현
 
-
-
+<img src="./img/all.png" width="150px" height="150px">
 
 6. 전체 css 작업
 7. 피드백 받은 내용 수정
