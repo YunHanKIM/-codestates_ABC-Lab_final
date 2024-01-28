@@ -158,8 +158,16 @@ Final Team Project
 7. 피드백 받은 내용 수정
 
 ### 시연 동영상
+https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/b552815e-dff2-4e26-83c9-5961ed648a4f
 
----
+
+### 구현 후 아쉬운점
+1. 코드중복으로 인해 길어진 코드 → 컴포넌트 재활용과 custom hook 사용의 필요성'
+2. 처음에 생각했던 기능을 다 구현하지 못한점
+
+## 향후 구현할 만한 추가적인 기능들
+1. 전체 / 모집중 게시글 페이징 처리
+2. 게시글 북마크. 조회수 출력
 
 ### **✔ branch 규칙**
 
