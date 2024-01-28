@@ -143,16 +143,16 @@ Final Team Project
 1. 메인페이지 헤더, 배너, 메인구역, 푸터 하드코딩을 통해 영역 설정
 2. 더미데이터 및 포스트맨 활용 필요 데이터 GET, POST 확인 인텔리제이로 로컬 서버 돌리며 작업
    
-<img src="./img/server.png" width="200px" height="150px"><img src="./img/post.png" width="200px" height="150px"><img src="./img/get.png" width="200px" height="150px">
+<img src="./img/server.png" width="300px" height="150px"><img src="./img/post.png" width="300px" height="150px"><img src="./img/get.png" width="300px" height="150px">
 
-3. 새로운 모임 구역 슬라이드 기능 구현
+3. 새로운 모임 구역 슬라이드 기능 구현 react-slick 사용
 
 ![newPost](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/a866d968-4495-423e-a0c7-c2283f1d4a8e)
 
 
 5. 전체 / 모집중 카테고리 별 게시글 구현
 
-<img src="./img/all.png" width="200px" height="150px">
+<img src="./img/all.png" width="300px" height="150px">
 
 6. 전체 css 작업
 7. 피드백 받은 내용 수정
