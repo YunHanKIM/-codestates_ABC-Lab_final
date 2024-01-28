@@ -152,7 +152,7 @@ Final Team Project
 
 5. 전체 / 모집중 카테고리 별 게시글 구현
 
-![category](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/14cef553-4f44-4916-a396-13d070111ce0)
+
 
 
 6. 전체 css 작업
