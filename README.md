@@ -70,13 +70,13 @@ Final Team Project
 4. 관리자, 새 글쓰기, 로그인, 회원가입 페이지
    이동
    1. 로그인 했을 경우 게시글 상세조회, 새 글쓰기 가능, 비로그인시 회원가입 페이지 모달로 표시
-6. 스크롤위치 표시, 스크롤 위치 입력 후 이동,
+5. 스크롤위치 표시, 스크롤 위치 입력 후 이동,
    페이지 최 상단 이동
-7. 부트스트랩 반응형 레이아웃 기준 디자인 적용
+6. 부트스트랩 반응형 레이아웃 기준 디자인 적용
    1. 스마트폰 : max-witdh 575.98px
    2. 태블릿 : max-width: 991.98px
    3. 데스크탑 : max-width: 1199.98px
-</details>
+   </details>
 
 ## 👩‍💻👨‍💻 Team list
 
@@ -96,7 +96,7 @@ Final Team Project
 
 <br><br>
 
-## 🛠 기술 스택
+## 🛠 우리 팀 기술 스택
 
 ![image](https://github.com/codestates-seb/abc02_002/assets/118452650/60fc2529-6f19-4a69-932a-75c0549433e3)
 
@@ -142,30 +142,43 @@ Final Team Project
 
 1. 메인페이지 헤더, 배너, 메인구역, 푸터 하드코딩을 통해 영역 설정
 2. 더미데이터 및 포스트맨 활용 필요 데이터 GET, POST 확인 인텔리제이로 로컬 서버 돌리며 작업
-   
-<img src="./img/server.png" width="300px" height="150px"><img src="./img/post.png" width="300px" height="150px"><img src="./img/get.png" width="300px" height="150px">
+
+   <img src="./img/server.png" width="200px" height="150px"> <img src="./img/post.png" width="200px" height="150px"> <img src="./img/get.png" width="200px" height="150px">
 
 3. 새로운 모임 구역 슬라이드 기능 구현 react-slick 사용
+4. 전체 / 모집중 카테고리 별 게시글 구현
+5. 전체 css 작업
+6. 피드백 받은 내용 수정
+
+### 메인페이지 기능 소개
+
+<details>
+
+<summary>
+메인헤더
+</summary>
+
+로그인 하지 않았을 경우 게시글 클릭 시 회원가입 페이지 모달로 출력
+
+로그인 하지 않았을 경우 헤더에 위치한 새 글 쓰기, 로그인, 회원가입 클릭 시 로그인 은 로그인 페이지, 새 글쓰기와 회원가입은 회원가입 페이지 출력
+
+</details>
 
 ![newPost](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/a866d968-4495-423e-a0c7-c2283f1d4a8e)
 
-
-5. 전체 / 모집중 카테고리 별 게시글 구현
-
 <img src="./img/all.png" width="300px" height="150px">
 
-6. 전체 css 작업
-7. 피드백 받은 내용 수정
-
 ### 시연 동영상
+
 https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/b552815e-dff2-4e26-83c9-5961ed648a4f
 
-
 ### 구현 후 아쉬운점
+
 1. 코드중복으로 인해 길어진 코드 → 컴포넌트 재활용과 custom hook 사용의 필요성'
 2. 처음에 생각했던 기능을 다 구현하지 못한점
 
 ## 향후 구현할 만한 추가적인 기능들
+
 1. 전체 / 모집중 게시글 페이징 처리
 2. 게시글 북마크. 조회수 출력
 
