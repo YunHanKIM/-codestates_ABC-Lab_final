@@ -22,7 +22,7 @@ Final Team Project
 ## 🚩 프로젝트 개요
 
 - 팀 프로젝트 이름 : 쓰담 (SSEUDAM)
-- 팀 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
+- 팀 프로젝트 기간 : 2023.12.30 ~ 2024.01.23
 - 개발 인원 : 프론트엔드 4명, 백엔드 4명
 - 배포주소 : [쓰담✨](http://ssdam.s3-website.ap-northeast-2.amazonaws.com/)
   <br>
