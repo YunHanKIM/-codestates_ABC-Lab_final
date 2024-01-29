@@ -150,6 +150,7 @@ Final Team Project
 5. 전체 css 작업
 6. 피드백 받은 내용 수정
 
+
 ### 메인페이지 기능 소개
 
 <details>
@@ -158,15 +159,95 @@ Final Team Project
 메인헤더
 </summary>
 
-로그인 하지 않았을 경우 게시글 클릭 시 회원가입 페이지 모달로 출력
+- 로그인 하지 않았을 경우 게시글 클릭 시 회원가입 페이지 모달로 출력
 
-로그인 하지 않았을 경우 헤더에 위치한 새 글 쓰기, 로그인, 회원가입 클릭 시 로그인 은 로그인 페이지, 새 글쓰기와 회원가입은 회원가입 페이지 출력
+  - 로그인 하지 않았을 경우 헤더에 위치한 새 글 쓰기, 로그인, 회원가입 클릭 시 로그인 은 로그인 페이지, 새 글쓰기와 회원가입은 회원가입 페이지 출력
+
+
+![NoLoginHeader](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/60c3428e-c17d-44fb-9b3d-2b58d8700c7c)
+
+
+  - 관리자로 로그인 시 새 글 쓰기, 로그인, 회원가입탭이 관리자, 새 글 쓰기, 로그아웃, 마이페이지로 변경
+
+  
+![adminLogin](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/3e5b48ab-0951-45cc-89dd-1d7166330cc2)
+
+
+  - 관리자, 새 글쓰기, 로그아웃, 마이페이지 이동
+
+  
+![header](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/752c53ff-407a-4a2d-817a-f078718915ee)
+
+
+  - 일반유저 로그인 시 새 글 쓰기, 로그인, 회원가입탭이 새 글 쓰기, 로그아웃, 마이페이지로 변경
+
+  
+![user](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/0313e7f4-12cf-453f-aaf4-18f69a677a1d)
 
 </details>
 
-![newPost](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/a866d968-4495-423e-a0c7-c2283f1d4a8e)
+<details>
+  
+<summary>
+새로운 모임 카테고리
+</summary>
 
-<img src="./img/all.png" width="300px" height="150px">
+  - 새로운 모임이 출력되는 화면, 자동 슬라이드 기능, 수동으로 옆으로 넘길 수 있다.
+
+
+![newPost](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/9f7c4337-06ed-43f2-b7fe-4520764e75d8)
+
+
+  - 게시글을 작성하면 게시글 상단에 새로운 모임 글이란걸 알 수 있는 new 출력, 마감이 며칠남았는지 마감일 출력한다. 총 12개의 게시글이 표시된다.
+
+
+![new](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/ef01ee55-9e1c-4217-9e56-8a672c1a47ad)
+
+</details>
+
+<details>
+  
+<summary>
+전체 / 모집중 카테고리
+</summary>
+
+  - 전체 카테고리에 전체 게시글이 출력된다.
+  - 모집중 카테고리에는 모집중인 게시글만 출력된다.
+  - 게시글에는 모집 마감 시간이 며칠 남았는지 게시글 오른 쪽 상단에 표시되고, 최근 게시물은 현재날짜 기준으로 이틀동안 최근 게시글이라는 표시가 게시글 왼쪽 상단에 표시된다.
+
+
+https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/467ca321-591a-489d-87ce-a7197892207f
+
+</details>
+
+<details>
+  
+<summary>
+특정 스크롤 위치로 이동 / 페이지 최 상단으로 이동
+</summary>
+
+  - 스크롤 바 옆에 최 상단으로 가는 버튼과 현재 스크롤 위치를 표시하는 창이 있고 숫자를 입력해 특정 스크롤 위치로 이동 가능하다.
+    
+
+![scroll](https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/d8ef845e-49dc-421e-a95e-e4ba2e63e0bb)
+
+</details>
+
+<details>
+  
+<summary>
+부트스트랩 반응형 레이아웃 기준 디자인 적용
+</summary>
+
+  1. 스마트폰 : max-witdh 575.98px
+  2. 태블릿 : max-width: 991.98px
+  3. 데스크탑 : max-width: 1199.98px
+    
+
+https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/b9ce617c-e853-4764-9a35-4c6fd0c1e11d
+
+
+</details>
 
 ### 시연 동영상
 
