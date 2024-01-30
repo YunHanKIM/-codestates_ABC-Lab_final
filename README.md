@@ -15,7 +15,7 @@ Final Team Project
 <h3 align='center'> 
 <p>Let’s all flog together!</p> 🏃🏻쓰담 (SSEUDAM)쓰레기 담기의 줄인말로
 
-플로깅 모임을 같이 할 사람들을 모집하는 사이트  </h3>
+플로깅 모임을 같이 할 사람들을 모집하는 사이트이다.  </h3>
 
 <br>
 
