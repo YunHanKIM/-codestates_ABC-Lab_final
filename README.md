@@ -249,7 +249,7 @@ https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/b9ce617c-
 
 </details>
 
-### 시연 동영상
+### 프론트엔드 발표 동영상
 
 https://github.com/YunHanKIM/-codestates_ABC-Lab_final/assets/88180966/b552815e-dff2-4e26-83c9-5961ed648a4f
 
