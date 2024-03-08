@@ -7,7 +7,7 @@ import NewListCard from '../MainPage/NewListCard';
 
 /*
   새로운 모임을 위한 슬라이더 컴포넌트
-  3개의 게시글이 보이며 슬라이더 버튼을 통해 옆으로 넘길 수 있다.
+  4개의 게시글이 보이며 자동으로 슬라이드 된다.
 */
 
 const ListSlider = ({ latest }) => {
@@ -20,7 +20,6 @@ const ListSlider = ({ latest }) => {
 
     window.addEventListener('resize', handleResize);
 
-    // 컴포넌트 언마운트 시 리스너 제거
     return () => {
       window.removeEventListener('resize', handleResize);
     };
